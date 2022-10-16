@@ -72,6 +72,8 @@ Used to display the best quality image in the correct aspect ratio. Also here is
 # Demonstration
 <img src="https://media1.giphy.com/media/zTty9nkHpmbO5fRLkq/giphy.gif?cid=790b76119e855ade9dd7b67ee8db30e96c258250f0a31c44&rid=giphy.gif&ct=g" width="225" height="450">
 
+<img src="https://media1.giphy.com/media/zTty9nkHpmbO5fRLkq/giphy.gif?cid=790b76119e855ade9dd7b67ee8db30e96c258250f0a31c44&rid=giphy.gif&ct=g" width="225" height="450">
+
 
 **Practice with:** \
 Unsplash API \
