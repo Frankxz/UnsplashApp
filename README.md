@@ -70,7 +70,7 @@ Used to display the best quality image in the correct aspect ratio. Also here is
         Serves to lock orientation and prevent screen rotation
 
 # Demonstration
-<img src="https://sun9-west.userapi.com/sun9-61/s/v1/ig2/AUkx1ke-tqND1EsDilHQ7OTBiiquN5fPmg8CCc0kK7ByzQm7TW_Vf5-iJk0HChcVdLFv74T1hYvdoQDyzccPFw0W.jpg?size=720x1374&quality=96&type=album">
+<img src="https://media1.giphy.com/media/zTty9nkHpmbO5fRLkq/giphy.gif?cid=790b76119e855ade9dd7b67ee8db30e96c258250f0a31c44&rid=giphy.gif&ct=g" width="225" height="450">
 
 
 **Practice with:** \
